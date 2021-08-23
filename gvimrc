@@ -1,4 +1,5 @@
-"файл plug.vim поместить в vim80/autoload/
+"this file replace in /etc/vim
+"файл plug.vim поместить в /usr/share/vim    ->    vim80/autoload/     
 "нужно установить git
 "Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб http://git/scrooloose/nerdtree`) в файл vimrc:
 
