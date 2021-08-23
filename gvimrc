@@ -1,6 +1,6 @@
 "this file replace in /etc/vim
-"файл plug.vim поместить в /usr/share/vim    ->    vim80/autoload/     
-"нужно установить git
+"file plug.vim in /usr/share/vim    ->    vim80/autoload/     
+"apt install git
 "Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб http://git/scrooloose/nerdtree`) в файл vimrc:
 
 call plug#begin('~/.vim/plugged')
@@ -30,7 +30,7 @@ set incsearch
 syntax on
 
 "показать боковую панель
-map <C-n> :NERDTreeToggle<CR> "контрал + n
+map <C-n> :NERDTreeToggle<CR> "ctrl + n
 
 "размер окна
 :set lines=50
