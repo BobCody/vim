@@ -47,7 +47,7 @@ set clipboard=unnamedplus
 "ctrl + w + w - сменить окно
 ":w !python3 -вывод результата скрипта
 "e путь - открыть файл
-
+":term - terminal 
 
 
 
