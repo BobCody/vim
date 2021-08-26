@@ -5,7 +5,7 @@
 
 call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}           "боковая панель
-Plug 'morhetz/gruvbox' "цветовая схема
+Plug 'BobCody/gruvbox' "цветовая схема
 
 call plug#end()
 
