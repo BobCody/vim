@@ -4,7 +4,7 @@
 "Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб https://github.com/comscrooloose/nerdtree`) в файл vimrc:
 
 call plug#begin('~/.vim/plugged')
-Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}           "боковая панель
+Plug 'BobCody/nerdtree', {'on': 'NERDTreeToggle'}           "боковая панель
 Plug 'BobCody/gruvbox' "цветовая схема
 
 call plug#end()
