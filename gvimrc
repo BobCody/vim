@@ -1,4 +1,4 @@
-"this file replace in /etc/vim
+"this file replace in /etc/vim    or for Fedora /etc/vimrc
 "file plug.vim in /usr/share/vim    ->    vim80/autoload/     
 "apt install git
 "Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб http://git/scrooloose/nerdtree`) в файл vimrc:
