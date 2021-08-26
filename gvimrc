@@ -1,7 +1,7 @@
 "this file replace in /etc/vim    or for Fedora /etc/vimrc
 "file plug.vim in /usr/share/vim    ->    vim80/autoload/     
 "apt install git
-"Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб https://github/comscrooloose/nerdtree`) в файл vimrc:
+"Далее следует добавить информацию об устанавливаемых плагинах (название плагина это ссылка из гитхаб https://github.com/comscrooloose/nerdtree`) в файл vimrc:
 
 call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}           "боковая панель
